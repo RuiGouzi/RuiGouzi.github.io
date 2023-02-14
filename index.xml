@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Husky Tech Blog</title>
+    <link>https://huskiesrui.github.io/</link>
+    <description>Recent content on Husky Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://huskiesrui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://huskiesrui.github.io/posts/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://huskiesrui.github.io/posts/first-post/</guid>
+      <description>--- title: &amp;#34;First Post&amp;#34; date: 2017-12-27T23:15:53-05:00 --- ## Hello world </description>
+    </item>
+    
+  </channel>
+</rss>
